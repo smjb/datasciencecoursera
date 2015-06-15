@@ -73,7 +73,7 @@ they are grouped by the Activity made and the Subject ID
 
 
 # R-friendly Estimation names 
-
+```
 > tBodyAcc_mean_X
 > tBodyAcc_mean_Y
 > tBodyAcc_mean_Z
@@ -635,3 +635,5 @@ they are grouped by the Activity made and the Subject ID
 > angleX_gravityMean
 > angleY_gravityMean
 > angleZ_gravityMean
+
+```
